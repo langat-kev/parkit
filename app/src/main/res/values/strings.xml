@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">parkit</string>
+    <string name="username">username</string>
+    <string name="login">Login</string>
+    <string name="register_here">Register here</string>
+    <string name="already_registered_n_click_here">Already Registered. \n click here</string>
+    <string name="email_address">email address</string>
+    <string name="password">password</string>
+    <string name="submit">submit</string>
+    <string name="register_here1">Register_here</string>
+    <string name="image">image</string>
+</resources>
